@@ -1,0 +1,2 @@
+a long line containing six words
+another line containing five words

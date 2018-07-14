@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/Fraction.cpp
+Fraction.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/Fraction.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/Fraction.h
+iostream
+-
+stdexcept
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/calculator.cpp
+Fraction.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/Fraction.h
+iostream
+-
+stdexcept
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/useFraction.cpp
+Fraction.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework1/Fraction.h
+iostream
+-
+

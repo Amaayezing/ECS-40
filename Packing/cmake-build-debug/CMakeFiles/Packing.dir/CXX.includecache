@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/Domain.h
+Shape.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/Shape.h
+iostream
+-
+vector
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/Point.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/Shape.h
+Point.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/Point.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/checkpack.cpp
+Domain.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/Packing/Domain.h
+iostream
+-
+

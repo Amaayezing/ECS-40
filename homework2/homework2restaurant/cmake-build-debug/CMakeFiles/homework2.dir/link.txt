@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/homework2.dir/assigntables.cpp.o CMakeFiles/homework2.dir/Restaurant.cpp.o CMakeFiles/homework2.dir/Table.cpp.o  -o homework2.exe -Wl,--out-implib,libhomework2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

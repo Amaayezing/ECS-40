@@ -1,0 +1,4 @@
+uses of redirect:
+
+$ ./a.out > output.txt # redirects only stdout
+$ ./a.out 2&>1 > output.txt    # redirects everything

@@ -1,0 +1,172 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Code.h
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+string
+-
+vector
+-
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.cpp
+string
+-
+iostream
+-
+sstream
+-
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+gcdistance.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/gcdistance.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+string
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.cpp
+string
+-
+sstream
+-
+iostream
+-
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+string
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/SiteNumber.h
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/airport.cpp
+iostream
+-
+iomanip
+-
+string
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+vector
+-
+cassert
+-
+cmath
+-
+cstring
+-
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+SiteNumber.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/SiteNumber.h
+Code.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Code.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/distance.cpp
+iostream
+-
+iomanip
+-
+string
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+vector
+-
+cassert
+-
+cmath
+-
+cstring
+-
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+SiteNumber.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/SiteNumber.h
+Code.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Code.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/gcdistance.cpp
+gcdistance.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/gcdistance.h
+cmath
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/gcdistance.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/testCode.cpp
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+Code.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Code.h
+iostream
+-
+fstream
+-
+iomanip
+-
+string
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/testFacility.cpp
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/testRunway.cpp
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/testSiteNumber.cpp
+Facility.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Facility.h
+Runway.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/Runway.h
+SiteNumber.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework4/SiteNumber.h
+iostream
+-
+fstream
+-
+iomanip
+-
+string
+-
+

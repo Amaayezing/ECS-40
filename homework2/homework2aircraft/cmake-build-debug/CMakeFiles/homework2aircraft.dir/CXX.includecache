@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/Aircraft.cpp
+Aircraft.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/Aircraft.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/Aircraft.h
+string
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/maintenance.cpp
+Aircraft.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/Aircraft.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/testAircraft.cpp
+Aircraft.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2aircraft/Aircraft.h
+iostream
+-
+

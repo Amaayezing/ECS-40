@@ -1,0 +1,3 @@
+ i=2 written using cout
+ written using cerr
+ written using clog

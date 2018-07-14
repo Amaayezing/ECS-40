@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/homework2aircraft.dir/maintenance.cpp.o CMakeFiles/homework2aircraft.dir/testAircraft.cpp.o CMakeFiles/homework2aircraft.dir/Aircraft.cpp.o  -o homework2aircraft.exe -Wl,--out-implib,libhomework2aircraft.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

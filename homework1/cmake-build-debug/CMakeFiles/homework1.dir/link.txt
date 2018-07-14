@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/homework1.dir/Fraction.cpp.o CMakeFiles/homework1.dir/calculator.cpp.o CMakeFiles/homework1.dir/useFraction.cpp.o  -o homework1.exe -Wl,--out-implib,libhomework1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

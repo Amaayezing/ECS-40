@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Packing.dir/checkpack.cpp.o CMakeFiles/Packing.dir/testPoint.cpp.o CMakeFiles/Packing.dir/testShape.cpp.o CMakeFiles/Packing.dir/Domain.cpp.o CMakeFiles/Packing.dir/Point.cpp.o CMakeFiles/Packing.dir/Shape.cpp.o  -o Packing.exe -Wl,--out-implib,libPacking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

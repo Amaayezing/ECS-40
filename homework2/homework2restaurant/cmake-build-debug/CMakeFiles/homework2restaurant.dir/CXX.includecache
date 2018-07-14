@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Restaurant.cpp
+Restaurant.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Restaurant.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Restaurant.h
+Table.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Table.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Table.cpp
+Table.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Table.h
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Table.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/assigntables.cpp
+iostream
+-
+Restaurant.h
+/cygdrive/c/Users/maaye/Desktop/ECS 40 Gygi/homework2restaurant/Restaurant.h
+
